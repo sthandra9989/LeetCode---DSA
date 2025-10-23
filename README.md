@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
