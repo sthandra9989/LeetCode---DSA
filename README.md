@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
