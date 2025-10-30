@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
