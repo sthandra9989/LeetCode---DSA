@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
