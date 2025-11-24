@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sthandra9989/LeetCode---DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
